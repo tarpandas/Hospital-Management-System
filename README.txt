@@ -1,10 +1,3 @@
--- Team B - CDB22CSDDW004 --
--- Contributors: --
--- Naveen Anil Kumar --
--- Riya Rachel Jose --
--- Sartaj Khayyum Deshmukh --
--- Tarpan Das --
-
 Instructions:
 
 If no changes are to be made, copy the 'Project' folder to the following destination:
